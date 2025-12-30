@@ -1,0 +1,11 @@
+TransactionID,Product,Price,UnitsSold
+1001,Laptop,1200,5
+1002,Mouse,25,100
+1003,Monitor,300,50
+1004,Keyboard,45,75
+1005,Headphones,70,40
+1006,Laptop,1200,2
+1007,Mouse,25,20
+1008,Monitor,300,10
+1009,Keyboard,45,5
+1010,Headphones,70,60
